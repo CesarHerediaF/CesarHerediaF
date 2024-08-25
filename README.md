@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Cesar Heredia 
 
+Industrial Engineering from UNI, currently working as Data Analyst.
+
 <!--
 **CesarHerediaF/CesarHerediaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
